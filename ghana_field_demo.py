@@ -488,7 +488,7 @@ Date: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')}
         ## 🚀 Welcome to Ghana Field Boundary Detection
         
         This AI-powered tool helps detect and analyze agricultural field boundaries from production data.
-        
+         
         ### 📋 How to use:
         1. **Upload** your .tif production data file (like Ghana_Predicted_Maize_Production_2024.tif)
         2. **Choose** from your proven methods: watershed, kmeans, threshold, or contour
